@@ -5,7 +5,6 @@ apk install tools
 ## Getting Started
 # install_plugin
 
-[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dev/packages/apk_install)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mengzhidaren/apk_install/blob/master/LICENSE)
 
 We use the `apk_install` plugin to install apk for android;
