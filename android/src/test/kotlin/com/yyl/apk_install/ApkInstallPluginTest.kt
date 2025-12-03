@@ -1,9 +1,5 @@
 package com.yyl.apk_install
 
-import io.flutter.plugin.common.MethodCall
-import io.flutter.plugin.common.MethodChannel
-import org.mockito.Mockito
-import kotlin.test.Test
 
 /*
  * This demonstrates a simple unit test of the Kotlin portion of this plugin's implementation.
