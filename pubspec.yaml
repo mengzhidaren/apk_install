@@ -1,6 +1,6 @@
 name: apk_install
-description: "apk install tools"
-version: 1.0.0
+description: "This is a toolkit for installing and updating APKs on the Android platform, used only for upgrading your own app."
+version: 1.0.1
 homepage: https://github.com/mengzhidaren/apk_install
 
 environment:
