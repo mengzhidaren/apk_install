@@ -5,9 +5,8 @@ apk install tools
 ## Getting Started
 # install_plugin
 
-[![Build Status](https://travis-ci.org/hui-z/flutter_install_plugin.svg?branch=master)](https://travis-ci.org/hui-z/flutter_install_plugin#)
-[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dartlang.org/packages/install_plugin)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/hui-z/flutter_install_plugin/blob/master/LICENSE)
+[![pub package](https://img.shields.io/pub/v/install_plugin.svg)](https://pub.dev/packages/apk_install)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mengzhidaren/apk_install/blob/master/LICENSE)
 
 We use the `apk_install` plugin to install apk for android;
 
@@ -16,7 +15,7 @@ We use the `apk_install` plugin to install apk for android;
 To use this plugin, add `apk_install` as a dependency in your pubspec.yaml file. For example:
 ```yaml
 dependencies:
-  apk_install: '^1.0.0'
+  apk_install: '^1.0.1'
 ```
 ##  Android
 You need to request permission for READ_EXTERNAL_STORAGE to read the apk file. You can handle the storage permission using [flutter_permission_handler](https://github.com/BaseflowIT/flutter-permission-handler).
